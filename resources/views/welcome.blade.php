@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel 测试
+                    Laravel-webhook
                 </div>
 
                 <div class="links">
